@@ -1,6 +1,6 @@
 function mooncakeSays(message) {
   let mooncake = '(o.o.)';
-  consol.log("true");
+  consol.log(11);
   if ( !message ) {
     return `${mooncake} chookity?`;
   }
